@@ -20,7 +20,7 @@
 <div id="content" role="main">
     <section class="row colset-2-its">
 
-        <h1>Welcome ${name}!</h1>
+        <h1>Welcome ${name}! Updated: 18/02/18</h1>
         <g:if test="${flash.message}">
             <div class="message" role="status">${flash.message}</div>
         </g:if>
